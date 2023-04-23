@@ -244,5 +244,3 @@ class Game {
     clearInterval(this.loopInterval)
   }
 }
-
-const game = new Game();
